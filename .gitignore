@@ -20,3 +20,5 @@
 /.deps
 /config.in
 /config
+._*
+/test/*-output.txt
