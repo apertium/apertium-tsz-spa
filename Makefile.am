@@ -215,10 +215,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "house" | apertium -d . -f line tsz-spa | tee .test-mt
-	@echo "house" > .test-ref
-	@diff .test-ref .test-mt
-	echo "house" | apertium -d . -f line spa-tsz | tee .test-mt
-	@echo "house" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

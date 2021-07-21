@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[7UPELU3E5mER#0] ^táa<n><sg><loc>/casa<n><f><sg><loc>$
+[/7UPELU3E5mER]
+[8w8Lu13OxnWU#0] ^xinkóni<pr>/con<pr>/a<pr>$
+[/8w8Lu13OxnWU]
+[QbgF6nrAFOI1#0] ^;<sent>/;<sent>$
+[/QbgF6nrAFOI1]
+[d3HU9hCcPCqQ#0] ^jeiaki<n><pl><obj>/ratón<n><m><pl><obj>$
+[/d3HU9hCcPCqQ]
+[mr-wWHHBwrKt#0] ^ketsi<v><tv><past><perf><p1><pl>/bajar<vblex><past><perf><p1><pl>$
+[/mr-wWHHBwrKt]
+[u3IIvJtdfATx#0] ^!<sent>/!<sent>$
+[/u3IIvJtdfATx]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

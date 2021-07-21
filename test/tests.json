@@ -1,0 +1,10 @@
+{
+    "spa-tsz": {
+        "input": "spa-tsz-input.txt",
+        "mode": "spa-tsz"
+    },
+    "tsz-spa": {
+        "input": "tsz-spa-input.txt",
+        "mode": "tsz-spa"
+    }
+}
